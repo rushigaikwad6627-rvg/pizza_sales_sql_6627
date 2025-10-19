@@ -1,0 +1,34 @@
+# 🔄 *15 SQL Questions – E-Commerce Returns & Refunds Project*
+
+### 📌 Basic (Easy)
+
+1. Find the total number of *orders, returns, and refunds*.
+2. List the *top 10 most expensive products* ever ordered.
+3. Show all *customers who have returned at least one product*.
+
+---
+
+### 📌 Intermediate (Medium)
+
+4. Find the *return percentage per product category*.
+5. List the *top 10 customers* who made the highest number of returns.
+6. Find the *most common return reason* overall.
+7. Calculate the *average refund amount per category*.
+8. Find the *customers who received the highest total refund amount*.
+
+---
+
+### 📌 Advanced (Tough)
+
+9. Calculate the *average refund processing time* (refund\_date – return\_date).
+10. City-wise *return percentage* (highest to lowest).
+11. Find the *month-wise trend of returns* in the last 1 year.
+12. Identify *customers with suspicious behavior* (returning >50% of their total orders).
+
+---
+
+### 📌 Business Insights (Real-world Value)
+
+13. Calculate the *total revenue lost due to refunds*.
+14. Find the *product category causing maximum financial loss*.
+15. Detect *refunds still pending after 7 days* from return date (bad customer experience).

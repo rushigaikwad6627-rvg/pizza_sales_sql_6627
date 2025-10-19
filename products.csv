@@ -1,0 +1,1001 @@
+product_id,product_name,category,price
+1,Some Laptop,Books,80480.2
+2,Thing Book,Books,47745.85
+3,Old Phone,Toys,41610.95
+4,Increase Shoes,Clothing,22281.8
+5,Crime Book,Footwear,58481.87
+6,Star Watch,Home Appliances,63561.19
+7,Relate Laptop,Beauty,70587.24
+8,Moment Book,Books,95172.26
+9,Task Laptop,Books,44688.24
+10,I Bag,Electronics,88301.27
+11,Education Bag,Beauty,79577.91
+12,Reflect Book,Electronics,16489.94
+13,See Bag,Books,86167.7
+14,Value Book,Books,21146.47
+15,Consider Shirt,Footwear,19999.4
+16,Such Laptop,Home Appliances,89482.46
+17,Deal Book,Home Appliances,39496.34
+18,Special Bag,Electronics,71799.16
+19,Identify Bag,Beauty,93256.02
+20,Skin Book,Beauty,13936.39
+21,Move Book,Toys,45550.43
+22,Cause Laptop,Books,49526.44
+23,Season Book,Electronics,79129.07
+24,Bad Phone,Electronics,34137.82
+25,It Laptop,Beauty,36215.22
+26,Medical Bag,Electronics,43855.3
+27,Onto Mixer,Footwear,39458.2
+28,North Mixer,Footwear,84262.2
+29,Maintain Book,Electronics,81526.71
+30,President Phone,Beauty,83409.12
+31,Despite Watch,Home Appliances,69989.83
+32,Old Shirt,Beauty,84907.58
+33,Money Mixer,Books,64367.53
+34,Produce Shirt,Toys,39227.09
+35,Big Shoes,Electronics,40146.87
+36,Anyone Laptop,Books,74608.4
+37,Democrat Bag,Home Appliances,91520.36
+38,Big Laptop,Books,23319.85
+39,Call Laptop,Books,6235.55
+40,But Watch,Beauty,58553.58
+41,Sign Book,Footwear,17098.15
+42,Heavy Mixer,Footwear,5716.53
+43,Again Laptop,Books,68886.26
+44,Cover Mixer,Clothing,72590.97
+45,Financial Book,Toys,47741.9
+46,Itself Bag,Books,96438.36
+47,Do Laptop,Home Appliances,94097.22
+48,Wear Watch,Footwear,52553.27
+49,Beyond Bag,Toys,93766.06
+50,Catch Phone,Footwear,10314.43
+51,Radio Book,Beauty,79224.47
+52,Forget Shirt,Electronics,15850.4
+53,End Mixer,Books,99513.74
+54,Fire Shirt,Books,18944.63
+55,Finally Phone,Footwear,5304.57
+56,Address Bag,Clothing,8851.4
+57,Song Mixer,Electronics,10444.77
+58,Power Bag,Home Appliances,38454.02
+59,Occur Shirt,Home Appliances,90923.91
+60,Number Book,Footwear,54843.69
+61,Itself Watch,Clothing,9794.73
+62,Course Laptop,Clothing,10702.72
+63,Bag Shoes,Toys,93942.97
+64,Guy Watch,Toys,99996.46
+65,Something Mixer,Toys,72841.84
+66,Scientist Book,Clothing,40451.97
+67,Some Mixer,Footwear,11428.59
+68,Around Mixer,Toys,29293.94
+69,Sure Phone,Beauty,65723.54
+70,Country Shoes,Toys,76395.61
+71,Series Shirt,Home Appliances,21678.2
+72,Drive Mixer,Clothing,73560.63
+73,Before Bag,Footwear,64583.6
+74,Soon Phone,Clothing,90112.67
+75,Street Mixer,Clothing,55001.91
+76,Various Mixer,Toys,27612.56
+77,Early Shoes,Clothing,58227.74
+78,Black Phone,Electronics,9982.69
+79,Behind Shirt,Books,35332.08
+80,Pm Watch,Electronics,85247.41
+81,Cold Shirt,Home Appliances,37845.63
+82,With Shirt,Books,63112.66
+83,Crime Book,Electronics,24319.77
+84,Main Phone,Home Appliances,25035.0
+85,Turn Watch,Home Appliances,45342.65
+86,Officer Watch,Toys,67589.04
+87,Stuff Phone,Electronics,38062.15
+88,Simple Laptop,Toys,23928.99
+89,Job Phone,Home Appliances,8930.17
+90,List Bag,Books,27331.54
+91,Voice Laptop,Beauty,41299.75
+92,Blood Bag,Books,72030.06
+93,Character Laptop,Books,45894.61
+94,Less Watch,Beauty,96460.49
+95,Argue Shoes,Footwear,60308.37
+96,Car Mixer,Toys,8836.1
+97,Herself Watch,Footwear,45861.56
+98,Both Shoes,Clothing,40279.24
+99,Moment Shirt,Home Appliances,55786.82
+100,Oil Watch,Clothing,26120.48
+101,Book Mixer,Books,8984.1
+102,Interview Shoes,Toys,63042.45
+103,Hour Mixer,Clothing,72865.81
+104,Term Watch,Clothing,55165.19
+105,Participant Laptop,Home Appliances,81640.67
+106,Each Phone,Clothing,52631.01
+107,Decision Shirt,Books,70008.07
+108,Pattern Shoes,Books,88903.49
+109,Team Mixer,Electronics,55601.24
+110,Rock Laptop,Home Appliances,69375.45
+111,Tend Book,Books,80209.12
+112,Set Shirt,Home Appliances,92892.51
+113,Almost Mixer,Beauty,38041.25
+114,Ball Watch,Clothing,26511.57
+115,Provide Watch,Electronics,86755.7
+116,Brother Mixer,Toys,33832.29
+117,Large Laptop,Footwear,88064.53
+118,Record Bag,Clothing,99973.19
+119,Hot Laptop,Clothing,21679.26
+120,Would Shoes,Clothing,83899.24
+121,Agree Mixer,Electronics,39600.59
+122,Simple Watch,Books,67444.53
+123,Score Mixer,Books,12637.53
+124,Future Shoes,Footwear,50897.04
+125,Without Laptop,Beauty,7606.61
+126,Skin Watch,Footwear,35048.84
+127,Unit Book,Toys,93749.62
+128,Decision Shirt,Electronics,30012.42
+129,Low Phone,Beauty,31566.9
+130,Husband Phone,Toys,56475.5
+131,Behavior Mixer,Books,53140.72
+132,Car Laptop,Electronics,587.66
+133,Personal Phone,Electronics,38775.17
+134,Focus Watch,Electronics,55492.13
+135,Will Bag,Footwear,71112.1
+136,Even Shirt,Toys,70026.19
+137,Spring Mixer,Books,69789.62
+138,Fish Shirt,Electronics,86097.1
+139,Production Watch,Footwear,89484.91
+140,Image Watch,Toys,28525.96
+141,Perform Shoes,Home Appliances,44267.14
+142,Land Laptop,Books,53777.19
+143,Lawyer Book,Toys,84023.98
+144,System Book,Home Appliances,59689.22
+145,Interview Laptop,Footwear,46347.97
+146,Least Shirt,Toys,18282.19
+147,Wear Laptop,Toys,91914.56
+148,Seat Shirt,Footwear,16893.72
+149,Piece Book,Electronics,54549.84
+150,Wife Book,Beauty,92272.66
+151,Event Laptop,Books,64500.93
+152,May Shirt,Home Appliances,15423.72
+153,Direction Mixer,Beauty,53982.78
+154,Future Bag,Footwear,10475.9
+155,Fine Shirt,Beauty,3703.83
+156,Adult Laptop,Clothing,49151.62
+157,Occur Phone,Books,28201.14
+158,Worry Laptop,Home Appliances,80023.04
+159,Big Mixer,Books,44199.64
+160,Possible Book,Toys,86255.37
+161,Article Shoes,Beauty,18245.26
+162,Act Phone,Toys,14992.28
+163,Better Watch,Beauty,93168.83
+164,List Watch,Footwear,77684.5
+165,Wait Watch,Beauty,80457.91
+166,Figure Bag,Beauty,63019.72
+167,Often Watch,Toys,19824.45
+168,Wife Phone,Home Appliances,40518.3
+169,People Mixer,Footwear,47630.47
+170,With Laptop,Beauty,92061.8
+171,Plan Mixer,Electronics,18108.04
+172,Idea Laptop,Home Appliances,36876.33
+173,Center Shoes,Beauty,6341.23
+174,Picture Mixer,Beauty,30664.41
+175,Government Shirt,Books,53379.71
+176,Forward Shoes,Footwear,59212.53
+177,Employee Shoes,Home Appliances,14481.89
+178,A Phone,Clothing,28249.95
+179,Space Bag,Home Appliances,62055.01
+180,Performance Book,Footwear,12090.99
+181,Public Shirt,Beauty,4022.36
+182,Fund Phone,Footwear,17398.45
+183,Factor Shirt,Home Appliances,22102.41
+184,Sport Book,Footwear,58568.89
+185,Indeed Mixer,Footwear,77826.18
+186,Low Laptop,Books,437.11
+187,Perform Watch,Electronics,58358.0
+188,Hear Shoes,Toys,92006.87
+189,Purpose Mixer,Beauty,22609.55
+190,Present Laptop,Beauty,71719.66
+191,Kind Book,Footwear,96621.18
+192,Attack Watch,Electronics,1063.64
+193,Opportunity Shirt,Beauty,30224.07
+194,Lot Watch,Beauty,65441.3
+195,Scientist Shoes,Electronics,92350.63
+196,More Laptop,Electronics,59196.46
+197,Window Shoes,Beauty,50109.57
+198,Daughter Shirt,Beauty,83395.31
+199,Still Laptop,Footwear,81479.59
+200,Bill Book,Clothing,77601.02
+201,Professor Watch,Electronics,82122.34
+202,Usually Shoes,Electronics,52907.12
+203,Quickly Watch,Electronics,69767.16
+204,Enjoy Laptop,Toys,27650.63
+205,Evening Shoes,Books,17582.86
+206,Pay Shirt,Footwear,24115.51
+207,Trip Shoes,Footwear,20639.28
+208,Black Phone,Books,30309.22
+209,Enter Bag,Electronics,82374.97
+210,Central Phone,Books,13656.91
+211,Summer Shirt,Clothing,78455.34
+212,Century Watch,Toys,25130.96
+213,Peace Mixer,Books,35803.84
+214,Rule Shirt,Electronics,34801.1
+215,Less Laptop,Beauty,59050.32
+216,Understand Shoes,Electronics,63453.17
+217,Away Shirt,Toys,1536.7
+218,Skin Shirt,Home Appliances,54889.76
+219,Page Mixer,Books,41111.29
+220,Mrs Mixer,Toys,84412.35
+221,Work Mixer,Beauty,66477.79
+222,Consumer Mixer,Books,75465.26
+223,Little Book,Electronics,76020.46
+224,Herself Shoes,Home Appliances,4223.6
+225,Put Bag,Footwear,36764.25
+226,Draw Bag,Footwear,4189.88
+227,Edge Phone,Beauty,48599.86
+228,Sea Shoes,Clothing,69567.39
+229,Yard Laptop,Electronics,91012.84
+230,Budget Shoes,Electronics,25448.89
+231,Enjoy Shoes,Footwear,53651.83
+232,Debate Bag,Home Appliances,38765.13
+233,Gun Phone,Footwear,21386.81
+234,Film Phone,Footwear,70858.23
+235,See Phone,Books,21613.42
+236,Tell Laptop,Toys,64333.63
+237,Front Shirt,Beauty,93442.42
+238,Southern Book,Home Appliances,50254.38
+239,Condition Shirt,Toys,33535.82
+240,Final Mixer,Footwear,74576.41
+241,Others Mixer,Books,34039.23
+242,Radio Shoes,Home Appliances,93102.12
+243,Risk Laptop,Clothing,84998.39
+244,Never Mixer,Beauty,42792.79
+245,Call Mixer,Home Appliances,72287.03
+246,Offer Shoes,Beauty,25309.77
+247,Without Shoes,Clothing,34387.48
+248,Summer Watch,Toys,14648.8
+249,Region Watch,Books,51238.77
+250,Financial Mixer,Toys,60514.88
+251,Other Book,Footwear,2722.14
+252,Give Mixer,Beauty,10089.81
+253,Push Shirt,Home Appliances,55690.86
+254,Daughter Phone,Clothing,59335.83
+255,Someone Shoes,Beauty,12138.75
+256,Sometimes Phone,Toys,52757.87
+257,Water Watch,Electronics,18353.62
+258,Within Bag,Home Appliances,37028.49
+259,Arm Bag,Books,33823.6
+260,Either Laptop,Footwear,76199.64
+261,All Watch,Toys,96287.74
+262,And Laptop,Toys,26301.88
+263,Factor Shoes,Books,27824.62
+264,Boy Shirt,Toys,63252.56
+265,Trial Shoes,Footwear,92176.14
+266,Everything Book,Beauty,4889.74
+267,Bit Shoes,Books,45850.39
+268,Administration Laptop,Electronics,96814.97
+269,First Shoes,Clothing,56760.87
+270,Sense Book,Beauty,40349.13
+271,Available Laptop,Toys,34365.24
+272,Red Shoes,Toys,74651.94
+273,Rest Mixer,Home Appliances,10427.75
+274,Town Laptop,Electronics,36864.12
+275,Letter Mixer,Electronics,60069.59
+276,Detail Watch,Clothing,51019.0
+277,Open Shoes,Clothing,79936.07
+278,Media Mixer,Books,32810.74
+279,Item Shoes,Clothing,71987.11
+280,South Shirt,Clothing,7493.15
+281,Play Bag,Toys,14144.16
+282,Section Mixer,Electronics,5875.16
+283,Leg Mixer,Clothing,54651.94
+284,Night Shoes,Toys,52834.97
+285,Hold Phone,Toys,79493.01
+286,Military Watch,Toys,54218.85
+287,Have Laptop,Books,95987.07
+288,Some Shirt,Clothing,67534.26
+289,Ask Bag,Beauty,52188.7
+290,Citizen Bag,Home Appliances,23118.06
+291,Between Phone,Footwear,92370.04
+292,Lay Mixer,Electronics,1687.55
+293,Lay Mixer,Toys,39004.03
+294,Not Book,Electronics,85266.81
+295,Past Laptop,Home Appliances,29804.41
+296,History Shirt,Home Appliances,97201.97
+297,Character Laptop,Books,8606.68
+298,Air Bag,Electronics,70998.52
+299,Side Watch,Electronics,53292.5
+300,Along Bag,Clothing,86420.75
+301,Drive Shoes,Beauty,82518.63
+302,Medical Phone,Home Appliances,32064.62
+303,One Shirt,Clothing,56837.16
+304,Practice Laptop,Electronics,80265.7
+305,Green Shirt,Electronics,30256.75
+306,Say Shirt,Toys,85470.86
+307,Bit Bag,Beauty,72049.98
+308,Parent Book,Electronics,36674.18
+309,Beautiful Book,Electronics,85514.92
+310,Consumer Mixer,Books,34503.43
+311,Order Mixer,Books,44766.31
+312,Teach Phone,Toys,8452.54
+313,College Mixer,Home Appliances,48024.11
+314,Food Watch,Footwear,1967.1
+315,Idea Shoes,Toys,40761.94
+316,Blue Shoes,Footwear,37651.33
+317,Color Mixer,Footwear,99174.74
+318,Write Shirt,Footwear,85276.59
+319,Enjoy Laptop,Home Appliances,34161.39
+320,Not Laptop,Footwear,35930.18
+321,Attack Book,Electronics,66111.84
+322,Three Laptop,Electronics,69082.09
+323,Age Shoes,Home Appliances,45143.33
+324,Camera Shirt,Books,88609.71
+325,Focus Book,Home Appliances,35568.73
+326,Discussion Shirt,Electronics,36096.67
+327,He Book,Clothing,3831.3
+328,Hundred Shoes,Clothing,8579.25
+329,Station Mixer,Home Appliances,28795.62
+330,Suddenly Watch,Beauty,31208.43
+331,Rule Mixer,Footwear,58090.99
+332,Practice Phone,Electronics,4806.12
+333,Instead Mixer,Footwear,74732.73
+334,Face Laptop,Books,13566.6
+335,Form Book,Clothing,15651.16
+336,Show Watch,Electronics,52315.16
+337,Move Book,Toys,48855.66
+338,As Bag,Home Appliances,73879.68
+339,Benefit Mixer,Beauty,76883.25
+340,Tend Book,Beauty,93655.3
+341,Player Book,Electronics,63394.37
+342,Wife Watch,Beauty,39946.13
+343,One Phone,Electronics,63603.45
+344,Performance Bag,Clothing,65648.32
+345,Think Book,Footwear,80989.14
+346,Big Book,Toys,44422.4
+347,Into Shirt,Toys,61744.93
+348,Ask Shirt,Books,21895.25
+349,Join Laptop,Toys,50745.46
+350,Stand Shirt,Clothing,95545.28
+351,Continue Phone,Electronics,34661.36
+352,Risk Shirt,Clothing,67492.55
+353,Much Shoes,Books,94053.78
+354,Career Laptop,Home Appliances,98948.69
+355,However Phone,Home Appliances,52401.19
+356,Final Shirt,Footwear,98161.36
+357,Eight Watch,Footwear,69733.12
+358,Card Watch,Home Appliances,90077.85
+359,Say Phone,Electronics,96778.73
+360,Forget Laptop,Footwear,92539.61
+361,Continue Laptop,Toys,68612.53
+362,Put Mixer,Beauty,31092.67
+363,Draw Phone,Beauty,10738.48
+364,Appear Shirt,Toys,79946.01
+365,Speech Watch,Books,43796.3
+366,Question Shirt,Beauty,41314.97
+367,Piece Watch,Footwear,73189.61
+368,Least Book,Home Appliances,57661.48
+369,Maintain Book,Home Appliances,67608.29
+370,Weight Book,Electronics,89630.68
+371,Before Laptop,Electronics,77241.36
+372,Trouble Bag,Footwear,73703.64
+373,Build Mixer,Clothing,90138.16
+374,Point Bag,Footwear,55860.76
+375,Choice Bag,Electronics,83656.52
+376,No Watch,Books,21158.03
+377,Finish Shirt,Electronics,16197.15
+378,Interesting Book,Home Appliances,80108.0
+379,The Shoes,Footwear,99660.35
+380,Different Laptop,Electronics,23469.91
+381,Later Shoes,Toys,24391.95
+382,None Shirt,Beauty,43823.31
+383,Inside Shirt,Footwear,94063.94
+384,Or Shirt,Clothing,90801.66
+385,Plan Shoes,Footwear,79633.66
+386,Billion Mixer,Home Appliances,38623.59
+387,Wish Bag,Books,87481.72
+388,I Mixer,Toys,54523.86
+389,Fear Phone,Beauty,41415.36
+390,Agree Bag,Beauty,77525.14
+391,Check Laptop,Electronics,6597.3
+392,Provide Shirt,Electronics,46930.2
+393,Shake Bag,Electronics,13131.37
+394,General Mixer,Beauty,13420.69
+395,Oil Shoes,Toys,18129.85
+396,Window Mixer,Toys,45291.7
+397,Kitchen Phone,Books,79997.74
+398,Project Bag,Clothing,78618.14
+399,Analysis Watch,Beauty,33453.73
+400,Help Phone,Beauty,33000.16
+401,Serious Laptop,Footwear,30747.07
+402,Modern Laptop,Toys,94935.24
+403,Film Shirt,Home Appliances,46240.78
+404,There Mixer,Clothing,56065.21
+405,Two Phone,Toys,23660.62
+406,Authority Watch,Toys,80719.39
+407,Marriage Mixer,Beauty,71860.31
+408,Response Phone,Footwear,49605.8
+409,Report Book,Beauty,32144.65
+410,Business Mixer,Home Appliances,45912.84
+411,The Shirt,Books,99091.17
+412,Small Watch,Books,81331.27
+413,Force Shoes,Footwear,84545.01
+414,Base Laptop,Home Appliances,65825.45
+415,Sit Phone,Books,3412.63
+416,National Bag,Electronics,19885.84
+417,Loss Phone,Home Appliances,38552.05
+418,Project Bag,Books,38217.47
+419,Save Watch,Footwear,48827.61
+420,Better Mixer,Beauty,21717.51
+421,Son Bag,Electronics,73702.48
+422,Box Mixer,Electronics,39322.3
+423,Start Mixer,Footwear,34215.64
+424,Red Book,Home Appliances,78401.95
+425,Theory Watch,Footwear,62443.19
+426,Owner Shirt,Toys,74370.93
+427,Add Mixer,Footwear,51518.87
+428,Show Phone,Clothing,21051.26
+429,Body Watch,Home Appliances,72807.22
+430,Music Book,Books,22426.37
+431,Card Phone,Electronics,1140.59
+432,Know Bag,Home Appliances,47257.67
+433,In Shoes,Beauty,34300.48
+434,Manager Watch,Clothing,6207.22
+435,Bit Phone,Clothing,56030.72
+436,Subject Bag,Beauty,36574.7
+437,Least Laptop,Electronics,88214.62
+438,Here Book,Beauty,42576.79
+439,Protect Shirt,Books,81270.84
+440,Their Watch,Electronics,23215.54
+441,Go Shoes,Footwear,81906.48
+442,Simply Mixer,Books,41227.86
+443,Sing Shirt,Home Appliances,96742.64
+444,All Bag,Home Appliances,17531.26
+445,Role Watch,Clothing,3673.68
+446,Sell Laptop,Books,84465.37
+447,You Mixer,Beauty,57619.25
+448,Seem Book,Books,46476.87
+449,Hot Book,Toys,8012.92
+450,Natural Phone,Electronics,57707.25
+451,Think Phone,Footwear,2799.52
+452,Security Bag,Books,95365.22
+453,Include Watch,Home Appliances,32459.84
+454,Serve Shoes,Toys,88201.2
+455,A Phone,Books,76804.89
+456,College Shirt,Books,41400.92
+457,Fish Shirt,Books,2209.0
+458,Me Shirt,Electronics,47804.67
+459,Establish Bag,Footwear,21808.75
+460,Official Laptop,Clothing,61517.14
+461,Case Bag,Clothing,54054.73
+462,Data Shirt,Home Appliances,98151.92
+463,System Shoes,Electronics,78625.86
+464,Too Laptop,Toys,22215.75
+465,Conference Mixer,Footwear,54129.25
+466,Foot Bag,Home Appliances,38507.83
+467,Decision Watch,Electronics,4719.89
+468,Test Shoes,Home Appliances,34971.25
+469,Believe Mixer,Footwear,54035.97
+470,Box Laptop,Clothing,37792.71
+471,Civil Laptop,Home Appliances,79494.0
+472,Decide Phone,Toys,34172.97
+473,Move Mixer,Beauty,10730.5
+474,To Shirt,Home Appliances,54962.88
+475,Buy Phone,Toys,51503.98
+476,Force Shirt,Beauty,23227.89
+477,Item Laptop,Electronics,13930.46
+478,Great Mixer,Footwear,26925.34
+479,Pick Book,Clothing,64603.77
+480,Interest Watch,Electronics,16207.83
+481,Year Laptop,Toys,15997.47
+482,Current Shirt,Home Appliances,53228.34
+483,Very Book,Beauty,15327.88
+484,Resource Mixer,Toys,93467.51
+485,Safe Book,Beauty,41748.9
+486,Good Watch,Home Appliances,54145.86
+487,Deal Book,Books,54510.74
+488,Exist Watch,Electronics,12188.86
+489,Order Phone,Books,94890.49
+490,Life Shoes,Electronics,31418.16
+491,Property Mixer,Clothing,59949.15
+492,Find Shoes,Home Appliances,61277.95
+493,Forget Phone,Clothing,41583.28
+494,Quality Bag,Clothing,6655.06
+495,Really Watch,Clothing,24859.77
+496,Rate Shoes,Beauty,46953.13
+497,Choice Shoes,Clothing,72780.02
+498,Can Shirt,Clothing,20614.04
+499,Central Shoes,Beauty,69143.58
+500,Seek Shirt,Toys,83025.79
+501,Institution Shoes,Toys,16374.07
+502,A Watch,Electronics,39692.54
+503,Moment Mixer,Electronics,19219.81
+504,Per Book,Toys,87182.4
+505,Wall Shirt,Toys,73351.95
+506,Consumer Phone,Books,51472.04
+507,Doctor Phone,Books,40523.5
+508,Wall Mixer,Electronics,82352.25
+509,Cup Laptop,Toys,46955.23
+510,Paper Laptop,Clothing,70020.73
+511,Hand Shirt,Toys,75267.9
+512,Do Shirt,Books,75104.99
+513,Learn Shirt,Clothing,20564.31
+514,Wall Laptop,Clothing,2826.39
+515,Early Shirt,Clothing,57341.89
+516,Walk Laptop,Footwear,35433.55
+517,Book Book,Beauty,89700.06
+518,Citizen Shirt,Footwear,75947.07
+519,Method Bag,Books,73661.83
+520,Late Shirt,Beauty,86774.92
+521,Service Mixer,Electronics,37676.41
+522,Star Phone,Books,93123.86
+523,Compare Shoes,Electronics,55767.06
+524,Upon Book,Electronics,57356.06
+525,Five Phone,Clothing,97268.03
+526,Political Watch,Clothing,60607.61
+527,Finally Shoes,Beauty,54195.03
+528,Whom Mixer,Home Appliances,7719.88
+529,Road Shirt,Footwear,16358.63
+530,Baby Book,Books,32945.03
+531,Back Phone,Electronics,87638.54
+532,Raise Shirt,Electronics,52371.65
+533,Campaign Bag,Footwear,35756.56
+534,Every Phone,Electronics,67129.47
+535,Time Book,Electronics,44362.46
+536,Garden Bag,Footwear,39072.24
+537,Walk Laptop,Home Appliances,15316.52
+538,Be Book,Toys,97432.63
+539,Candidate Mixer,Electronics,77854.45
+540,Authority Bag,Electronics,8459.11
+541,Apply Mixer,Books,98666.36
+542,Wife Laptop,Clothing,23093.41
+543,Article Phone,Clothing,53805.52
+544,Remember Shoes,Beauty,92777.15
+545,Usually Book,Toys,80825.1
+546,Notice Phone,Toys,78908.33
+547,Alone Bag,Home Appliances,33006.52
+548,Over Bag,Beauty,97181.02
+549,Store Shirt,Toys,3792.47
+550,Recently Shoes,Footwear,92041.16
+551,Material Bag,Footwear,72855.57
+552,Goal Shoes,Electronics,31596.91
+553,Oil Book,Books,24454.44
+554,Six Bag,Beauty,64224.71
+555,Day Phone,Clothing,98248.79
+556,Fall Shirt,Books,78090.41
+557,Debate Mixer,Books,62244.5
+558,Art Laptop,Footwear,17000.05
+559,Blood Mixer,Electronics,22486.65
+560,Stage Book,Beauty,1159.44
+561,High Bag,Footwear,65783.73
+562,Hundred Book,Home Appliances,43577.62
+563,Later Mixer,Clothing,62198.48
+564,Son Laptop,Books,78635.77
+565,Hear Shoes,Electronics,62599.28
+566,Reason Watch,Toys,50040.94
+567,Economy Shoes,Home Appliances,10628.13
+568,Director Shirt,Clothing,65851.4
+569,Up Shoes,Home Appliances,72255.5
+570,Child Phone,Home Appliances,78961.34
+571,Measure Shirt,Books,19940.18
+572,Present Bag,Footwear,46880.74
+573,Allow Phone,Beauty,93656.83
+574,Card Watch,Footwear,6945.18
+575,Network Watch,Toys,59675.34
+576,Hear Shirt,Home Appliances,53017.04
+577,Art Phone,Books,27153.36
+578,Easy Mixer,Beauty,49983.97
+579,Around Shoes,Clothing,35047.33
+580,Buy Watch,Footwear,11266.03
+581,Training Watch,Beauty,38589.03
+582,Let Bag,Clothing,97324.11
+583,Not Watch,Beauty,62964.57
+584,Understand Laptop,Books,1900.92
+585,Great Book,Toys,72618.28
+586,Summer Shirt,Toys,59243.28
+587,Itself Watch,Books,69273.71
+588,Radio Book,Clothing,7983.48
+589,Evidence Shoes,Home Appliances,67752.15
+590,Need Mixer,Beauty,54547.04
+591,He Book,Home Appliances,74838.33
+592,Prove Watch,Toys,75756.79
+593,Official Laptop,Toys,93309.79
+594,College Mixer,Beauty,80273.7
+595,Require Watch,Electronics,64148.2
+596,Identify Shirt,Clothing,6657.08
+597,Loss Mixer,Home Appliances,22171.29
+598,Likely Shoes,Beauty,48972.75
+599,Specific Shoes,Clothing,16682.72
+600,White Mixer,Toys,24335.66
+601,Fish Mixer,Books,8746.15
+602,Major Book,Toys,31163.6
+603,Feel Mixer,Footwear,67159.38
+604,Director Bag,Beauty,63721.05
+605,Value Book,Home Appliances,47786.41
+606,Represent Phone,Home Appliances,27459.5
+607,Water Watch,Books,63860.62
+608,Rate Shirt,Beauty,67286.65
+609,Theory Book,Electronics,20270.73
+610,Continue Shoes,Toys,46625.93
+611,Answer Laptop,Electronics,35255.31
+612,Seem Phone,Clothing,59126.17
+613,Mission Shoes,Electronics,79047.38
+614,Recently Shirt,Books,88415.77
+615,Person Mixer,Books,90317.72
+616,Produce Watch,Clothing,36872.62
+617,Traditional Bag,Home Appliances,99119.51
+618,Herself Bag,Books,37820.16
+619,Agreement Book,Footwear,46098.68
+620,Have Mixer,Footwear,66555.49
+621,Chair Watch,Books,66650.18
+622,Fish Bag,Home Appliances,71429.15
+623,Bag Shirt,Books,38533.36
+624,Enter Phone,Books,37554.03
+625,Class Bag,Clothing,98018.33
+626,War Mixer,Books,8207.51
+627,Player Bag,Footwear,47416.08
+628,Pattern Shoes,Footwear,42652.1
+629,Low Bag,Toys,55760.83
+630,Account Shoes,Footwear,96024.26
+631,Health Bag,Electronics,10623.73
+632,Here Shirt,Books,39765.61
+633,Stand Laptop,Books,40402.74
+634,Ok Watch,Footwear,15870.24
+635,Myself Laptop,Home Appliances,89721.7
+636,Certain Book,Clothing,84566.95
+637,Computer Shirt,Beauty,55168.3
+638,Civil Bag,Books,89537.33
+639,Board Shoes,Electronics,69961.65
+640,Response Watch,Books,86080.9
+641,Hand Laptop,Toys,13948.44
+642,Quality Book,Books,9158.02
+643,Kind Book,Beauty,26269.72
+644,Front Mixer,Clothing,39413.44
+645,Pretty Phone,Books,93198.78
+646,Suddenly Shoes,Beauty,25979.83
+647,Likely Book,Books,5886.6
+648,Build Book,Beauty,88593.66
+649,Stop Phone,Footwear,85625.48
+650,Republican Shoes,Home Appliances,6783.4
+651,Too Book,Footwear,28336.88
+652,Very Shirt,Home Appliances,98839.49
+653,Player Shoes,Books,52215.3
+654,Worry Shoes,Footwear,76142.91
+655,Action Shoes,Home Appliances,63673.48
+656,Government Shoes,Clothing,65125.43
+657,But Book,Beauty,43081.48
+658,Career Laptop,Home Appliances,95718.11
+659,Read Bag,Books,90213.04
+660,Animal Shirt,Footwear,15455.67
+661,Around Mixer,Home Appliances,63718.95
+662,Some Shirt,Beauty,11631.39
+663,Forget Phone,Clothing,56866.42
+664,Attention Mixer,Clothing,99562.44
+665,Community Mixer,Clothing,69627.57
+666,Recognize Phone,Home Appliances,40227.5
+667,Operation Shirt,Electronics,30370.73
+668,Nice Book,Footwear,72919.53
+669,Black Shirt,Home Appliances,65877.8
+670,Nice Shoes,Clothing,6524.27
+671,Measure Bag,Electronics,32194.79
+672,Agreement Phone,Electronics,19842.0
+673,Manager Mixer,Footwear,14721.39
+674,Help Bag,Books,63362.51
+675,Surface Shoes,Electronics,4236.99
+676,Use Shoes,Beauty,41276.03
+677,Tv Book,Beauty,30645.86
+678,Identify Mixer,Clothing,30238.04
+679,However Shirt,Clothing,57069.92
+680,Then Watch,Toys,72366.64
+681,Lose Phone,Beauty,69656.48
+682,System Shoes,Footwear,61223.0
+683,Husband Phone,Electronics,68159.47
+684,North Laptop,Books,15070.97
+685,Present Laptop,Beauty,61521.44
+686,Off Shoes,Toys,8786.76
+687,Number Mixer,Toys,44911.57
+688,Paper Watch,Books,4494.38
+689,Type Shoes,Beauty,86585.35
+690,Light Watch,Toys,94509.45
+691,Purpose Laptop,Beauty,49374.65
+692,Happen Shoes,Clothing,72970.15
+693,Institution Shoes,Toys,42480.63
+694,Stop Mixer,Electronics,94990.16
+695,Series Shoes,Home Appliances,18672.74
+696,Red Watch,Beauty,71556.84
+697,Least Phone,Electronics,99428.67
+698,Law Laptop,Beauty,28831.55
+699,Both Laptop,Beauty,92278.29
+700,Center Phone,Clothing,14551.22
+701,Red Shoes,Footwear,18907.84
+702,Save Mixer,Toys,16207.74
+703,Consumer Shoes,Clothing,46288.57
+704,Dream Book,Clothing,81649.22
+705,People Shoes,Clothing,37640.32
+706,Hair Mixer,Home Appliances,5330.05
+707,Rise Shirt,Toys,11643.55
+708,Commercial Watch,Toys,95693.4
+709,Father Shirt,Electronics,52418.48
+710,Phone Shirt,Home Appliances,57609.59
+711,Form Shoes,Books,87495.4
+712,Someone Book,Home Appliances,87980.48
+713,Congress Watch,Clothing,89991.56
+714,Bring Mixer,Books,16201.46
+715,Left Bag,Home Appliances,38232.02
+716,Until Shoes,Books,73205.48
+717,Design Watch,Clothing,7215.83
+718,Theory Shirt,Toys,93743.45
+719,Much Book,Footwear,40833.66
+720,Attack Shirt,Home Appliances,7790.75
+721,Choose Watch,Toys,24231.79
+722,College Watch,Footwear,2023.34
+723,Enough Mixer,Beauty,61564.73
+724,Church Mixer,Clothing,96826.13
+725,Throughout Mixer,Beauty,98881.11
+726,Strong Mixer,Beauty,95786.52
+727,Professor Shoes,Toys,97424.67
+728,Daughter Shoes,Footwear,814.55
+729,Three Shoes,Electronics,11848.5
+730,Them Bag,Electronics,45580.3
+731,Performance Laptop,Books,89709.65
+732,Kid Watch,Electronics,41462.82
+733,Spring Mixer,Beauty,9492.55
+734,State Watch,Beauty,1358.59
+735,Focus Mixer,Footwear,99192.38
+736,Actually Book,Footwear,18426.2
+737,Wear Phone,Toys,23554.52
+738,Pattern Watch,Beauty,5985.86
+739,Leader Watch,Electronics,45599.63
+740,Sing Phone,Electronics,68839.05
+741,Sometimes Bag,Toys,25885.29
+742,Tv Book,Beauty,49022.51
+743,Continue Phone,Electronics,20437.76
+744,Thought Book,Beauty,74438.96
+745,Interview Mixer,Beauty,9197.13
+746,Doctor Mixer,Home Appliances,24853.42
+747,Your Laptop,Clothing,93266.59
+748,Skin Laptop,Toys,89149.4
+749,To Laptop,Books,22895.82
+750,Art Watch,Toys,65079.94
+751,Arrive Watch,Books,52870.26
+752,Plan Phone,Clothing,43525.2
+753,Professor Bag,Books,69075.22
+754,Hit Mixer,Electronics,2608.34
+755,Mr Shoes,Footwear,81213.66
+756,Institution Phone,Home Appliances,48825.34
+757,Finish Mixer,Beauty,30926.74
+758,Raise Laptop,Footwear,31862.08
+759,Attention Bag,Beauty,323.68
+760,Scene Phone,Beauty,76462.42
+761,Under Phone,Home Appliances,65515.25
+762,Source Bag,Footwear,63805.82
+763,Career Mixer,Books,52747.3
+764,Region Bag,Beauty,56650.99
+765,Difficult Laptop,Footwear,8716.83
+766,Fire Shoes,Books,22930.85
+767,Back Watch,Clothing,52178.62
+768,Trade Shirt,Footwear,4182.64
+769,Who Shoes,Electronics,70703.43
+770,Leader Laptop,Books,56017.68
+771,Also Phone,Toys,36106.55
+772,Exactly Shoes,Clothing,405.3
+773,Owner Mixer,Footwear,11513.0
+774,Opportunity Phone,Toys,59242.87
+775,Individual Book,Toys,57452.61
+776,Camera Mixer,Footwear,17860.19
+777,Lose Laptop,Toys,48184.76
+778,Various Book,Toys,47804.53
+779,Student Laptop,Beauty,70267.78
+780,Sell Phone,Beauty,35455.51
+781,Pretty Mixer,Footwear,72692.15
+782,Gas Shirt,Toys,7781.15
+783,Decade Mixer,Footwear,93042.35
+784,Notice Mixer,Beauty,40004.16
+785,Treatment Shoes,Clothing,50237.81
+786,Daughter Phone,Electronics,85300.9
+787,Responsibility Phone,Books,33636.29
+788,Stock Shoes,Footwear,17249.3
+789,Take Watch,Clothing,88848.82
+790,Tree Shoes,Footwear,75734.48
+791,Charge Shoes,Beauty,38694.02
+792,Enter Watch,Beauty,92540.51
+793,West Shirt,Clothing,55776.18
+794,Special Shirt,Clothing,73214.9
+795,Particularly Phone,Home Appliances,69649.1
+796,Just Mixer,Footwear,35077.58
+797,Nor Watch,Home Appliances,97331.89
+798,Soon Shirt,Clothing,21014.55
+799,Bar Book,Books,3069.46
+800,Tough Mixer,Home Appliances,75344.88
+801,Continue Phone,Books,61123.91
+802,Develop Phone,Footwear,62087.06
+803,Affect Shirt,Home Appliances,21030.76
+804,Model Watch,Home Appliances,88150.15
+805,Much Laptop,Home Appliances,12753.82
+806,Practice Bag,Toys,26746.84
+807,Onto Watch,Home Appliances,84483.82
+808,Mind Book,Clothing,8839.22
+809,On Book,Books,89019.82
+810,Right Shirt,Home Appliances,69148.97
+811,Southern Shoes,Home Appliances,23761.48
+812,Race Laptop,Footwear,53981.66
+813,Open Laptop,Electronics,43917.43
+814,Much Laptop,Toys,72383.5
+815,Investment Bag,Books,5711.11
+816,But Shirt,Home Appliances,27855.86
+817,Wind Phone,Home Appliances,70662.08
+818,Seek Bag,Footwear,86900.64
+819,Consumer Phone,Toys,26860.24
+820,Take Watch,Toys,85219.51
+821,Mission Book,Toys,42729.3
+822,Common Watch,Footwear,29661.98
+823,Each Mixer,Beauty,30266.68
+824,No Shoes,Footwear,67977.3
+825,Different Phone,Books,9006.15
+826,Though Phone,Toys,66444.42
+827,Half Laptop,Footwear,89014.27
+828,In Watch,Footwear,37095.13
+829,Knowledge Phone,Footwear,48483.61
+830,Animal Laptop,Books,99980.24
+831,Fund Book,Footwear,60013.24
+832,Alone Laptop,Books,92054.26
+833,Month Shirt,Clothing,22539.69
+834,Degree Watch,Footwear,148.76
+835,Break Shirt,Books,42580.75
+836,Chance Book,Toys,71743.95
+837,Sure Bag,Toys,59580.43
+838,Company Watch,Electronics,97218.43
+839,Lawyer Laptop,Toys,6019.5
+840,Arm Mixer,Beauty,5375.45
+841,Present Mixer,Home Appliances,27553.21
+842,Down Watch,Toys,10922.93
+843,Likely Laptop,Books,83777.78
+844,Piece Shoes,Beauty,63838.77
+845,Break Bag,Beauty,20055.59
+846,Face Shirt,Books,31835.95
+847,Medical Book,Home Appliances,64896.02
+848,Professional Shoes,Books,77236.15
+849,Popular Phone,Electronics,7631.79
+850,Maybe Watch,Beauty,92561.48
+851,Painting Book,Home Appliances,87778.59
+852,History Mixer,Clothing,87412.55
+853,Popular Bag,Electronics,21024.2
+854,Finally Phone,Books,59462.71
+855,Paper Watch,Toys,79099.7
+856,Mention Mixer,Clothing,94698.46
+857,With Bag,Electronics,74048.59
+858,Project Watch,Clothing,21673.31
+859,Partner Phone,Clothing,67717.36
+860,Indicate Mixer,Books,88572.13
+861,Modern Shirt,Beauty,32211.93
+862,Wonder Watch,Footwear,54790.02
+863,Night Book,Electronics,78496.43
+864,Human Laptop,Toys,56364.95
+865,Wear Phone,Toys,67892.27
+866,True Mixer,Books,14996.19
+867,Pay Shirt,Toys,93176.04
+868,Development Mixer,Electronics,25178.78
+869,General Bag,Toys,14235.69
+870,Candidate Bag,Books,78050.6
+871,It Shoes,Footwear,71125.05
+872,Real Bag,Clothing,49845.98
+873,Expert Laptop,Clothing,8097.5
+874,Why Book,Toys,97711.8
+875,Course Laptop,Books,59616.09
+876,Nearly Shoes,Footwear,76369.09
+877,Star Mixer,Books,52907.1
+878,Herself Phone,Home Appliances,37936.89
+879,Why Book,Books,17258.62
+880,Morning Laptop,Clothing,34411.54
+881,Charge Shoes,Books,52033.21
+882,Field Watch,Books,36563.51
+883,Picture Shirt,Toys,97247.05
+884,Full Mixer,Electronics,63983.71
+885,Church Shoes,Clothing,99076.69
+886,Major Laptop,Books,15041.96
+887,Usually Book,Toys,91942.94
+888,Mind Phone,Clothing,85969.9
+889,Officer Shirt,Electronics,5733.03
+890,Individual Mixer,Footwear,22098.69
+891,Right Shoes,Books,73116.16
+892,Mouth Watch,Electronics,74657.11
+893,Rich Book,Books,43567.2
+894,Now Shirt,Electronics,83704.29
+895,Evidence Shirt,Beauty,3408.87
+896,Growth Watch,Electronics,51217.73
+897,Laugh Watch,Books,71107.68
+898,Thank Watch,Home Appliances,65155.84
+899,Picture Phone,Home Appliances,94361.85
+900,Large Book,Home Appliances,28074.04
+901,Until Laptop,Electronics,60358.79
+902,Sign Mixer,Toys,33360.45
+903,Real Watch,Toys,39759.08
+904,Congress Shoes,Clothing,87836.26
+905,Possible Bag,Toys,12411.68
+906,Quality Book,Beauty,71894.63
+907,Reach Shirt,Books,98897.34
+908,Everything Laptop,Electronics,40684.04
+909,Stand Laptop,Clothing,78761.92
+910,Though Watch,Books,16196.77
+911,Allow Shoes,Books,62261.43
+912,Raise Phone,Electronics,23518.41
+913,Husband Mixer,Electronics,32810.62
+914,Full Laptop,Clothing,95667.64
+915,Inside Bag,Home Appliances,23474.76
+916,Street Watch,Beauty,99417.3
+917,Moment Bag,Toys,6507.47
+918,Sound Shoes,Books,86577.75
+919,Door Laptop,Footwear,96741.15
+920,One Shirt,Beauty,65578.19
+921,Young Phone,Clothing,37733.69
+922,Side Laptop,Clothing,13627.14
+923,Spend Laptop,Beauty,73340.8
+924,Record Mixer,Electronics,72551.64
+925,Same Phone,Books,85206.89
+926,Blue Shirt,Books,60717.03
+927,Music Shirt,Toys,20189.54
+928,Third Shoes,Beauty,63284.96
+929,Particularly Laptop,Clothing,37225.58
+930,Event Phone,Beauty,28315.84
+931,Low Bag,Toys,56073.9
+932,Now Shirt,Clothing,86090.37
+933,Hospital Bag,Beauty,56667.63
+934,Good Phone,Footwear,32153.06
+935,Contain Laptop,Home Appliances,25386.84
+936,Price Bag,Books,22197.54
+937,Create Shoes,Toys,46133.27
+938,On Shirt,Home Appliances,85376.7
+939,Power Watch,Books,20612.96
+940,Past Phone,Home Appliances,68475.6
+941,Stay Phone,Clothing,70520.83
+942,Trade Laptop,Electronics,35939.95
+943,Herself Phone,Electronics,39731.8
+944,Media Watch,Beauty,6652.67
+945,International Watch,Footwear,50244.48
+946,Machine Shirt,Footwear,43714.81
+947,Western Book,Clothing,78649.0
+948,Claim Shirt,Electronics,31920.64
+949,Trip Laptop,Toys,21842.66
+950,Case Book,Toys,87729.77
+951,Table Mixer,Beauty,46929.52
+952,Note Shoes,Home Appliances,52286.96
+953,Music Book,Clothing,91046.46
+954,Chance Mixer,Beauty,42119.59
+955,Little Mixer,Footwear,93206.6
+956,Inside Shirt,Electronics,10842.31
+957,Federal Mixer,Home Appliances,40381.07
+958,Compare Shoes,Clothing,12084.26
+959,Key Laptop,Footwear,82628.11
+960,Issue Watch,Clothing,35634.37
+961,I Bag,Electronics,1419.31
+962,Believe Book,Clothing,80781.61
+963,Room Laptop,Home Appliances,72130.89
+964,Central Bag,Footwear,51092.24
+965,Old Shirt,Electronics,75374.63
+966,Sing Mixer,Beauty,2292.62
+967,It Watch,Electronics,83769.95
+968,Stage Shirt,Clothing,46666.69
+969,Show Bag,Electronics,86830.61
+970,Buy Phone,Home Appliances,66472.51
+971,Own Mixer,Books,9942.01
+972,Industry Mixer,Home Appliances,55644.09
+973,Nature Shirt,Electronics,2206.08
+974,Yes Mixer,Beauty,29327.05
+975,Recognize Shoes,Footwear,48257.35
+976,From Shoes,Clothing,67742.1
+977,Machine Phone,Footwear,79472.5
+978,Family Book,Books,89877.89
+979,Ask Shoes,Toys,51283.33
+980,Grow Book,Footwear,33984.76
+981,Around Shirt,Books,56647.16
+982,Company Bag,Books,6041.67
+983,Those Mixer,Home Appliances,39481.65
+984,Today Shoes,Books,70380.3
+985,Believe Phone,Electronics,28449.02
+986,Agent Watch,Electronics,55720.14
+987,Finally Watch,Clothing,21222.77
+988,Little Phone,Beauty,90349.97
+989,Consumer Watch,Clothing,36430.13
+990,Hundred Book,Home Appliances,43555.42
+991,Treat Laptop,Footwear,38868.66
+992,Tree Shirt,Toys,52908.41
+993,Left Shirt,Footwear,19200.56
+994,Support Bag,Clothing,31103.68
+995,Anyone Mixer,Footwear,89275.75
+996,Out Laptop,Home Appliances,47955.38
+997,Drug Laptop,Home Appliances,69899.54
+998,Hot Phone,Toys,47660.59
+999,Turn Watch,Footwear,20764.75
+1000,Enough Watch,Beauty,17655.9
